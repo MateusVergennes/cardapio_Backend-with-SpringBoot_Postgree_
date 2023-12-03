@@ -1,9 +1,5 @@
 # Aplicação Spring Boot com Postgree de um cardapio digital
 
-![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/seu-repositorio)
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/seu-repositorio)
-![GitHub](https://img.shields.io/github/license/seu-usuario/seu-repositorio)
-
 Este repositório contém uma aplicação desenvolvida em Java Spring Boot que utiliza os métodos HTTP GET e POST para interação com um banco de dados PostgreSQL. A aplicação atua como backend, fornecendo endpoints para consulta e manipulação dos dados, enquanto o frontend consome essa API para exibição e interação com os dados.
 
 ## Configuração do Projeto
