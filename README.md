@@ -23,7 +23,7 @@ A API fornece endpoints para acessar e manipular dados no banco de dados Postgre
 - **Exemplo de Requisição:**
   ```bash
   curl -X GET http://localhost:8080/food
-
+  ```
   ### Método POST
 
   - **Endpoint:** `/food`
@@ -36,7 +36,7 @@ A API fornece endpoints para acessar e manipular dados no banco de dados Postgre
         "title": "pizza",
         "image": "https://fotos.com/pizza.png"
     }
-
+    ```
 ## Contribuição
 
 Sinta-se à vontade para contribuir para este projeto. Se você encontrar problemas ou tiver sugestões, por favor, abra uma issue. Estamos ansiosos para receber seu feedback!
