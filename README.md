@@ -10,7 +10,7 @@ A configuração do Spring Boot e do banco de dados PostgreSQL pode ser encontra
 
 ### Frontend🌐
 
-O frontend que consome esta API está localizado no repositório [seu-usuario/seu-repositorio-frontend](https://github.com/seu-usuario/seu-repositorio-frontend). Certifique-se de conferir o repositório do frontend para obter mais informações sobre a interface do usuário e como ela interage com este backend.
+O frontend que consome esta API está localizado no repositório [!seu-usuario](https://github.com/seu-usuario/seu-repositorio-frontend). Certifique-se de conferir o repositório do frontend para obter mais informações sobre a interface do usuário e como ela interage com este backend.
 
 ## Utilização da API
 
